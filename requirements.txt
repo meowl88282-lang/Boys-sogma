@@ -1,0 +1,5 @@
+discord.py-self
+aiohttp
+aiohttp-socks
+websockets
+python-dotenv
